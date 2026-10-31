@@ -154,4 +154,4 @@ This model is designed to run on Replicate. To deploy:
 
 ## License
 
-Apache 2.0
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
